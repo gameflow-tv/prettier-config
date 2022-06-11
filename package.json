@@ -2,11 +2,11 @@
   "name": "@gameflow-tv/prettier-config",
   "version": "0.0.0",
   "description": "Baseline Prettier setup for @gameflow-tv",
-  "main": ".prettierrc.yaml",
+  "main": ".prettierrc.js",
   "author": "Gameflow",
   "license": "UNLICENSED",
   "files": [
-    ".pretterrc.yaml"
+    ".pretterrc.js"
   ],
   "peerDependencies": {
     "prettier": ">= 2"
